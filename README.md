@@ -14,6 +14,8 @@ The scraper stores scraped data into a SQLite database in /tmp/
 
 ### Available data
 
+### Given Data
+
 - Matches
     - Infos (teams, ground, date)
     - Basic statistics (tries, conversions, penalties, drops)
@@ -25,6 +27,8 @@ The scraper stores scraped data into a SQLite database in /tmp/
 - Game events (match, team, player, time, type)
 
 ### Authors
+
+### Writer
 
 - Jean-Eudes Peloye
 - Antoine Redier
